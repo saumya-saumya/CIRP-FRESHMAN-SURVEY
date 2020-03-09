@@ -9,6 +9,11 @@
 
 #### Country Demographic
  
+ ![Applicant Demographic](./Tableau%20Visuals/Final_Freshman_survey_workbook.png)
+ 
+ 
+#### Country Demographic
+ 
  ![Counrty Demo](./Tableau%20Visuals/Country_Demographic.png)
  
  
