@@ -9,4 +9,4 @@
  
  #### Gender and Counrty
  
- ![Gender and Counrty](./Tableau Visuals/Gender_demographic.PNG)
+ ![Gender and Counrty](./Tableau Visuals/Gender_demographic.png)
