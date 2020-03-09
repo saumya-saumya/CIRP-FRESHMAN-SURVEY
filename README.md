@@ -7,9 +7,9 @@
  I Have displayed few Tableau Dashboard using CIRP Datasets below. Due to the confidential information included in the file I cannot share the workbook.
  <br>I am uploading the pictures of the workbook to show the visualizations.
 
-#### Country Demographic
+#### Applicant Demographic
  
- ![Applicant Demographic](./Tableau%20Visuals/Final_Freshman_survey_workbook.png)
+ ![Applicant Demographic](./Tableau%20Visuals/first_time_freshman_demographic.png)
  
  
 #### Country Demographic
