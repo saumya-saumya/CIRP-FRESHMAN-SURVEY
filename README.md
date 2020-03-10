@@ -1,4 +1,4 @@
-# Understand and Visualization of Suvery Data with Tableau
+# Understanding and Visualization of Suvery Data with Tableau
 
  The CIRP Freshmen Survey (TFS) has data on incoming college students’ background characteristics, high school experiences, attitudes, behaviors, and expectations for college.
  
